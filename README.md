@@ -16,3 +16,8 @@ The following are the current plans for changes to MOSAIC's frame.
 ## Change Log
 
 You can find the change log for the Power Board on MOSAIC's website [here](https://www.mosaicsat.org/core_documentation/hardware/frame/change_log/). 
+
+## Frame Dimensions
+
+### Main Frame:
+
