@@ -21,3 +21,17 @@ You can find the change log for the Power Board on MOSAIC's website [here](https
 
 ### Main Frame:
 
+Top view: 
+![Main Frame Top View Dimensions](images/frame_top_dim.png)
+
+Side view:
+![Main Frame side View Dimensions](images/frame_side_dim.png)
+
+### Z-Face Panels
+
+Top view:
+![Z-Face Panel Top View Dimensions](images/zface_top_dim.png)
+
+### Board Brackets
+
+![Board Brackets Dimensions](images/bracket_dim.png)
