@@ -2,7 +2,7 @@
 
 This is the repository for MOSAIC's 3D printed satellite frame.
 
-For detailed documentation on the frame, check out its core documentation [here](https://www.mosaicsat.org/core_documentation/hardware/frame/).
+For detailed information on the frame, check out its core documentation [here](https://www.mosaicsat.org/core_documentation/hardware/frame/).
 
 To get your own MOSAIC frame, visit the MOSAIC fabrication guide [here](https://www.mosaicsat.org/getting_mosaic/).
 
